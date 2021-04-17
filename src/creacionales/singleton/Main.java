@@ -17,7 +17,8 @@ public class Main {
         BalanceadorCargas b3 = BalanceadorCargas.getBalanceadorCargas();
         BalanceadorCargas b4 = BalanceadorCargas.getBalanceadorCargas();
         
-        System.out.println("Esto es un ejemplo de Singleton");
+        System.out.println("Esto es un ejemplo de Singleton OK");
+        
 
         if (b1 == b2 && b2 == b3 && b3 == b4) {
             System.out.println("Son la misma instancia");
