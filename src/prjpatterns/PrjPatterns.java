@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package prjabstractfactory;
+package prjpatterns;
 
 /**
  *
  * @author amartinez
  */
-public class PrjAbstractFactory {
+public class PrjPatterns {
 
     /**
      * @param args the command line arguments
