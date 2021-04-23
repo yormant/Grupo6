@@ -9,9 +9,9 @@ In *software engineering*, a software design pattern is a general, **reusable so
 Design patterns had originally been categorized into 3 sub-classifications based on kind of problem they solve. Creational patterns provide the capability to create objects based on a required criterion and in a controlled way. Structural patterns are about organizing different classes and objects to form larger structures and provide new functionality. Finally, behavioral patterns are about identifying common communication patterns between objects and realize these patterns.
 
 In this project, you will find design patterns, these are divided into three fundamental groups:
-> Behavioral
-> Creational
-> Structural
+* Behavioral
+* Creational
+* Structural
 
 ## Creational Patterns
 Creational patterns are used to create objects for a suitable class that serves as a solution for a problem. Generally when instances of several different classes are available. 
